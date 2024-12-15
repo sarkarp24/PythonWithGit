@@ -33,6 +33,7 @@ pipeline {
                     touch test_dir/test1.txt
                     test -f test_dir/$INPUT_FILE   
                     grep "Two" test_dir/$INPUT_FILE
+                    python main.py
                 '''
             }
         }
