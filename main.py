@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     TestModule1.module1_fun1()
     print_hi('Prodyot')
+    print("hello")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
