@@ -19,6 +19,6 @@ if __name__ == '__main__':
     print("conflict exmple")
     print("conflict")
     print("Conflict add")
-    print("conflict third master")
+    print("conflict third master.")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
