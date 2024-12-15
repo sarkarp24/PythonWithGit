@@ -7,7 +7,6 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                #cleanWs()
                 sh '''
                     echo "Hello World"
                     mkdir test_dir
