@@ -16,7 +16,7 @@ if __name__ == '__main__':
     SubModule1.submodule1_fun1()
     print_hi('Prodyot')
     print("hello")
-    print("conflict")
     print("conflict exmple")
+    print("conflict")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
