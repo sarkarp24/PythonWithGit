@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print_hi('Prodyot')
     print("hello")
     print("conflict")
+    print("conflict exmple")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
