@@ -9,7 +9,7 @@ pipeline {
             steps {
                 sh '''
                     echo "Hello World"
-                    mkdir test_dir
+                    mkdir -p test_dir
                     touch test_dir/test.txt
                     echo "hello world - Second pipeline" >> test_dir/$INPUT_FILE
                     cat test_dir/test.txt 
